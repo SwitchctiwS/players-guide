@@ -1,0 +1,5 @@
+/home/jared_thibault/Documents/Projects/Csharp/MaximumDraws/MaximumDraws/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jared_thibault/Documents/Projects/Csharp/MaximumDraws/MaximumDraws/bin/Debug/MaximumDraws.exe.mdb
+/home/jared_thibault/Documents/Projects/Csharp/MaximumDraws/MaximumDraws/bin/Debug/MaximumDraws.exe
+/home/jared_thibault/Documents/Projects/Csharp/MaximumDraws/MaximumDraws/obj/x86/Debug/MaximumDraws.exe
+/home/jared_thibault/Documents/Projects/Csharp/MaximumDraws/MaximumDraws/obj/x86/Debug/MaximumDraws.exe.mdb

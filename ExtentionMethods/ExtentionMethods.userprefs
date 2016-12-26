@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="ExtentionMethods/ExtentionMethods.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtentionMethods/Program.cs">
+    <Files>
+      <File FileName="ExtentionMethods/Program.cs" Line="8" Column="44" />
+      <File FileName="ExtentionMethods/StringExtentions.cs" Line="27" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

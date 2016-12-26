@@ -1,0 +1,11 @@
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\bin\Debug\Indexers.exe.config
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\bin\Debug\Indexers.exe
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\bin\Debug\Indexers.pdb
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\obj\Debug\Indexers.exe
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\obj\Debug\Indexers.pdb
+F:\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\bin\Debug\Indexers.exe.config
+F:\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\obj\Debug\Indexers.exe
+F:\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\obj\Debug\Indexers.pdb
+F:\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\bin\Debug\Indexers.exe
+F:\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\bin\Debug\Indexers.pdb
+F:\Projects\Programming\CSharp\Players Guide Examples\Indexers\Indexers\obj\Debug\Indexers.csprojResolveAssemblyReference.cache

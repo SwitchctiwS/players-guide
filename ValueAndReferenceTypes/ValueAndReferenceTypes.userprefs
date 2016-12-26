@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="ValueAndReferenceTypes/ValueAndReferenceTypes.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ValueAndReferenceTypes/Program.cs">
+    <Files>
+      <File FileName="ValueAndReferenceTypes/Program.cs" Line="30" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

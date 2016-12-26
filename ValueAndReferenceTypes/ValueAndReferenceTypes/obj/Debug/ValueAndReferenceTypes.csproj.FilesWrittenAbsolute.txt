@@ -1,0 +1,1 @@
+/home/jared_thibault/Documents/Projects/Csharp/ValueAndReferenceTypes/ValueAndReferenceTypes/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs

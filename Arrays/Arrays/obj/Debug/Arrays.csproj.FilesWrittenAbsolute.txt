@@ -1,0 +1,2 @@
+/home/jared_thibault/Documents/Visual Studio 2015/Projects/Arrays/Arrays/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/jared_thibault/Documents/Visual Studio 2015/Projects/Arrays/Arrays/obj/Debug/Arrays.exe

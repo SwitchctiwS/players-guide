@@ -1,0 +1,5 @@
+/media/jared_thibault/SHARED/Projects/Programming/CSharp/Players Guide Examples/QueryExpressions/QueryExpressions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/media/jared_thibault/SHARED/Projects/Programming/CSharp/Players Guide Examples/QueryExpressions/QueryExpressions/bin/Debug/QueryExpressions.exe.mdb
+/media/jared_thibault/SHARED/Projects/Programming/CSharp/Players Guide Examples/QueryExpressions/QueryExpressions/bin/Debug/QueryExpressions.exe
+/media/jared_thibault/SHARED/Projects/Programming/CSharp/Players Guide Examples/QueryExpressions/QueryExpressions/obj/x86/Debug/QueryExpressions.exe
+/media/jared_thibault/SHARED/Projects/Programming/CSharp/Players Guide Examples/QueryExpressions/QueryExpressions/obj/x86/Debug/QueryExpressions.exe.mdb

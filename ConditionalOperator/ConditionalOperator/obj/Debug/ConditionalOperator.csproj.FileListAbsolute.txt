@@ -1,0 +1,5 @@
+c:\users\jared\documents\visual studio 2015\Projects\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.exe
+c:\users\jared\documents\visual studio 2015\Projects\ConditionalOperator\ConditionalOperator\bin\Debug\ConditionalOperator.pdb
+c:\users\jared\documents\visual studio 2015\Projects\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.exe
+c:\users\jared\documents\visual studio 2015\Projects\ConditionalOperator\ConditionalOperator\obj\Debug\ConditionalOperator.pdb

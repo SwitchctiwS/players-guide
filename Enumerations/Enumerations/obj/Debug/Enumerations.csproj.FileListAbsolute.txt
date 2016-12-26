@@ -1,0 +1,6 @@
+c:\users\jared\documents\visual studio 2015\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.exe
+c:\users\jared\documents\visual studio 2015\Projects\Enumerations\Enumerations\bin\Debug\Enumerations.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Enumerations\Enumerations\obj\Debug\Enumerations.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2015\Projects\Enumerations\Enumerations\obj\Debug\Enumerations.exe
+c:\users\jared\documents\visual studio 2015\Projects\Enumerations\Enumerations\obj\Debug\Enumerations.pdb

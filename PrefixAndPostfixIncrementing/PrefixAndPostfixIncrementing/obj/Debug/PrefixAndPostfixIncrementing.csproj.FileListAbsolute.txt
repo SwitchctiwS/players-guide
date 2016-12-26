@@ -1,0 +1,5 @@
+c:\users\jared\documents\visual studio 2015\Projects\PrefixAndPostfixIncrementing\PrefixAndPostfixIncrementing\bin\Debug\PrefixAndPostfixIncrementing.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\PrefixAndPostfixIncrementing\PrefixAndPostfixIncrementing\bin\Debug\PrefixAndPostfixIncrementing.exe
+c:\users\jared\documents\visual studio 2015\Projects\PrefixAndPostfixIncrementing\PrefixAndPostfixIncrementing\bin\Debug\PrefixAndPostfixIncrementing.pdb
+c:\users\jared\documents\visual studio 2015\Projects\PrefixAndPostfixIncrementing\PrefixAndPostfixIncrementing\obj\Debug\PrefixAndPostfixIncrementing.exe
+c:\users\jared\documents\visual studio 2015\Projects\PrefixAndPostfixIncrementing\PrefixAndPostfixIncrementing\obj\Debug\PrefixAndPostfixIncrementing.pdb

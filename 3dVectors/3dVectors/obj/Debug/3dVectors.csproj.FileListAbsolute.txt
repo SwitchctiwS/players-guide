@@ -1,0 +1,6 @@
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\3dVectors\3dVectors\bin\Debug\3dVectors.exe.config
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\3dVectors\3dVectors\bin\Debug\3dVectors.exe
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\3dVectors\3dVectors\bin\Debug\3dVectors.pdb
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\3dVectors\3dVectors\obj\Debug\3dVectors.csprojResolveAssemblyReference.cache
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\3dVectors\3dVectors\obj\Debug\3dVectors.exe
+F:\Documents\Projects\Programming\CSharp\Players Guide Examples\3dVectors\3dVectors\obj\Debug\3dVectors.pdb

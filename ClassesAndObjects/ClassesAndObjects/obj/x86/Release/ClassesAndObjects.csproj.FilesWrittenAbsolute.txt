@@ -1,0 +1,5 @@
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/bin/Release/ClassesAndObjects.exe.mdb
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/bin/Release/ClassesAndObjects.exe
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/obj/x86/Release/ClassesAndObjects.exe
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/obj/x86/Release/ClassesAndObjects.exe.mdb

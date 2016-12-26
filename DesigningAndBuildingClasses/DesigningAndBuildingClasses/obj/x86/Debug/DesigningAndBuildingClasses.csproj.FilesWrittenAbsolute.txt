@@ -1,0 +1,5 @@
+/home/jared_thibault/Documents/Projects/Csharp/DesigningAndBuildingClasses/DesigningAndBuildingClasses/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jared_thibault/Documents/Projects/Csharp/DesigningAndBuildingClasses/DesigningAndBuildingClasses/bin/Debug/DesigningAndBuildingClasses.exe.mdb
+/home/jared_thibault/Documents/Projects/Csharp/DesigningAndBuildingClasses/DesigningAndBuildingClasses/bin/Debug/DesigningAndBuildingClasses.exe
+/home/jared_thibault/Documents/Projects/Csharp/DesigningAndBuildingClasses/DesigningAndBuildingClasses/obj/x86/Debug/DesigningAndBuildingClasses.exe
+/home/jared_thibault/Documents/Projects/Csharp/DesigningAndBuildingClasses/DesigningAndBuildingClasses/obj/x86/Debug/DesigningAndBuildingClasses.exe.mdb

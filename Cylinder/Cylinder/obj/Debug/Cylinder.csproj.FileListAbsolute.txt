@@ -1,0 +1,6 @@
+c:\users\jared\documents\visual studio 2015\Projects\Cylinder\Cylinder\bin\Debug\Cylinder.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Cylinder\Cylinder\bin\Debug\Cylinder.exe
+c:\users\jared\documents\visual studio 2015\Projects\Cylinder\Cylinder\bin\Debug\Cylinder.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Cylinder\Cylinder\obj\Debug\Cylinder.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2015\Projects\Cylinder\Cylinder\obj\Debug\Cylinder.exe
+c:\users\jared\documents\visual studio 2015\Projects\Cylinder\Cylinder\obj\Debug\Cylinder.pdb

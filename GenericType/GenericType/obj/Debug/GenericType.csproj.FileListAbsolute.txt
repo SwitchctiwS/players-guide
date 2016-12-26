@@ -1,0 +1,1 @@
+C:\Users\LT_Ja\Documents\Visual Studio 2015\Projects\CSharp\GenericType\GenericType\bin\Debug\GenericType.exe.config

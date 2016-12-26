@@ -1,0 +1,5 @@
+c:\users\jared\documents\visual studio 2015\Projects\Casting\Casting\bin\Debug\Casting.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Casting\Casting\bin\Debug\Casting.exe
+c:\users\jared\documents\visual studio 2015\Projects\Casting\Casting\bin\Debug\Casting.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Casting\Casting\obj\Debug\Casting.exe
+c:\users\jared\documents\visual studio 2015\Projects\Casting\Casting\obj\Debug\Casting.pdb

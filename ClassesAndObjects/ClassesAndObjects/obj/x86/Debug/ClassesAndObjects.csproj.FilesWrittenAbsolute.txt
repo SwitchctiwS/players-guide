@@ -1,0 +1,10 @@
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/bin/Debug/ClassesAndObjects.exe.mdb
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/bin/Debug/ClassesAndObjects.exe
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/obj/x86/Debug/ClassesAndObjects.exe
+/home/jared_thibault/Documents/MonoDevelop Projects/Test/ClassesAndObjects/ClassesAndObjects/obj/x86/Debug/ClassesAndObjects.exe.mdb
+/home/jared_thibault/Documents/Projects/Csharp/ClassesAndObjects/ClassesAndObjects/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/jared_thibault/Documents/Projects/Csharp/ClassesAndObjects/ClassesAndObjects/bin/Debug/ClassesAndObjects.exe.mdb
+/home/jared_thibault/Documents/Projects/Csharp/ClassesAndObjects/ClassesAndObjects/bin/Debug/ClassesAndObjects.exe
+/home/jared_thibault/Documents/Projects/Csharp/ClassesAndObjects/ClassesAndObjects/obj/x86/Debug/ClassesAndObjects.exe
+/home/jared_thibault/Documents/Projects/Csharp/ClassesAndObjects/ClassesAndObjects/obj/x86/Debug/ClassesAndObjects.exe.mdb

@@ -1,0 +1,6 @@
+c:\users\jared\documents\visual studio 2015\Projects\Methods\Methods\bin\Debug\Methods.exe.config
+c:\users\jared\documents\visual studio 2015\Projects\Methods\Methods\bin\Debug\Methods.exe
+c:\users\jared\documents\visual studio 2015\Projects\Methods\Methods\bin\Debug\Methods.pdb
+c:\users\jared\documents\visual studio 2015\Projects\Methods\Methods\obj\Debug\Methods.csprojResolveAssemblyReference.cache
+c:\users\jared\documents\visual studio 2015\Projects\Methods\Methods\obj\Debug\Methods.exe
+c:\users\jared\documents\visual studio 2015\Projects\Methods\Methods\obj\Debug\Methods.pdb

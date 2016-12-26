@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DesigningAndBuildingClasses/DesigningAndBuildingClasses.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesigningAndBuildingClasses/Program.cs">
+    <Files>
+      <File FileName="DesigningAndBuildingClasses/Colour.cs" Line="17" Column="21" />
+      <File FileName="DesigningAndBuildingClasses/Program.cs" Line="23" Column="4" />
+      <File FileName="DesigningAndBuildingClasses/Ball.cs" Line="5" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

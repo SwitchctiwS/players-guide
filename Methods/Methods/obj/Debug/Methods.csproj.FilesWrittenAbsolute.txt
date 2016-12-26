@@ -1,0 +1,2 @@
+/home/jared_thibault/Documents/Projects/Csharp/Methods/Methods/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/jared_thibault/Documents/Projects/Csharp/Methods/Methods/obj/Debug/Methods.exe
